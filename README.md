@@ -1,7 +1,7 @@
 # InternshipProject4-2D-SurviveDungeon
 Simple 2D game made in unity and written in C# (Unity 2019.4.4f1)
 
-You can play on https://tolgahankurtdere.itch.io/internshipproject3-tb
+You can play on https://tolgahankurtdere.itch.io/internshipproject4-survivedungeon
 
 ![gif1](https://user-images.githubusercontent.com/45331388/90281670-a6406780-de75-11ea-9c0d-2a5a694cf5d5.GIF)
 
